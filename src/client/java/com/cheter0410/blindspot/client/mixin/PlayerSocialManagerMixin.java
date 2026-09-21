@@ -1,6 +1,6 @@
 package com.cheter0410.blindspot.client.mixin;
 
-import com.mojang.authlib.yggdrasil.response.FriendDto;
+import com.mojang.authlib.services.response.FriendDto;
 import net.minecraft.client.gui.screens.social.PlayerSocialManager;
 import net.minecraft.client.gui.screens.social.PlayerSocialManager.PlayerData;
 import net.minecraft.client.gui.screens.social.RemoteFriendListUpdateHandler;
